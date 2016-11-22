@@ -26,6 +26,7 @@ make
 ```
 
 ### To run the program, use the command
+
 1. training
 ```
     ./battrae-model Config.ini -train
