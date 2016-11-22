@@ -26,21 +26,24 @@ make
 ```
 
 ### To run the program, use the command
-
-1. training
+* training
 ```
     ./battrae-model Config.ini -train
-```
-2. testing
+```  
+* testing
 ```
     ./battrae-model Config.ini -test
 ```
 
-A demo example is given in directory: demo/, there are one subdirectory:
+A demo example is given in directory: demo/, there are one subdirectory:  
+```
     data/       the training data, test data and dev corpus, with pretrained worde embeddings
-The format of training/dev data:
+```
+The format of training/dev data: 
+```
     correct source phrase ||| correct target phrase ||| negative source phrase ||| negative target phrase
-See detail in the demo example.
+```
+See detail in the demo example.  
 
 Example outputs are given in the demo, and see the "Config.ini" for more detailed training and test settings.
 
