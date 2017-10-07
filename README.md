@@ -4,7 +4,7 @@ source code for "BattRAE: Bidimensional Attention-Based Recursive Autoencoders f
 If you use this code, please cite <a href="https://arxiv.org/abs/1605.07874">our paper</a>:
 ```
 @InProceedings{Zhang:AAAI:2017:BattRAE,
-  author    = {Biao Zhang, Deyi Xiong and Jinsong Su},
+  author    = {Zhang, Biao and Xiong, Deyi and Su, Jinsong},
   title     = {BattRAE: Bidimensional Attention-Based Recursive Autoencoders for Learning Bilingual Phrase Embeddings},
   booktitle = {Proc. of AAAI},
   year      = {2017},
